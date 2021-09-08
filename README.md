@@ -1,2 +1,4 @@
 # dat250
-Jeg installer Ja
+I installed Java Development Environment (JDK)
+I installed Eclipse,
+I installed A Git client.
